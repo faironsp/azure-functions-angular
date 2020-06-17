@@ -1,1 +1,1 @@
-"# azure-functions-angular" 
+# azure-functions-angular
